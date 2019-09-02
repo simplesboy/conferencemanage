@@ -1,0 +1,2 @@
+2019-09-02 15:02:51 [ERROR] [qtp2096999226-39] c.t.a.l.LoginService - login fail!Realm [com.thunisoft.artery.login.shiro.realm.ArteryRealm@339abfd] was unable to find account data for the submitted AuthenticationToken [com.thunisoft.artery.login.model.MuiltiAuthenticationToken - null, rememberMe=false].
+2019-09-02 15:03:18 [ERROR] [qtp2096999226-41] c.t.a.l.LoginService - login fail!Submitted credentials for token [com.thunisoft.artery.login.model.MuiltiAuthenticationToken - null, rememberMe=false] did not match the expected credentials.
